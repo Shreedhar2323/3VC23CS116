@@ -2,4 +2,4 @@
 void main()
 {
 	printf("meging");
-}<F2>
+}<F2
